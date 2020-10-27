@@ -4,7 +4,7 @@ codigo que simule un inicio de sesion
 Se desarrollo un programa que usa el formato MVC (Modelo, Vista y Controlador) con el fin de registrar usuarios.
 
 #Link del funcionamiento del programa.
-https://flipgrid.com/
+https://flipgrid.com/65f5c53a
 
 #Elementos visuales y funcionamiento.
 Para este programa utilice por parte de las librerias de netbeans los botones  JButton para iniciar sesion y para crear la cuenta 
